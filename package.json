@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Tech-Abhang/Drive#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.7",
     "ejs": "^3.1.10",
     "env": "^0.0.2",
